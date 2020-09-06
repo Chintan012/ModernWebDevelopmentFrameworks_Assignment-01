@@ -17,11 +17,13 @@ Build on existing customer relationships to improve productivity and maximize cu
 ### Client Testimonials
 
 > *"Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially."*
+
                                                                                                             ***-Ferris Finkelstein<br>
                                                                                                                 Founder and CEO<br>
                                                                                                                 Dorknozzle<br> ***
 
 > *Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.*
+
                                                                                                             ***-Justin Case<br>
                                                                                                                 CTO<br>
                                                                                                                IX Inc.<br> **
