@@ -17,26 +17,26 @@ Build on existing customer relationships to improve productivity and maximize cu
 ### Client Testimonials
 
 > *"Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially."*
-                                                                                                                ** -Ferris Finkelstein
-                                                                                                                    Founder and CEO
-                                                                                                                    Dorknozzle **
+                                                                                                            ***-Ferris Finkelstein<br>
+                                                                                                                Founder and CEO<br>
+                                                                                                                Dorknozzle<br> ***
 
 > *Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.*
-                                                                                                                ** -Justin Case
-                                                                                                                    CTO
-                                                                                                                    IX Inc. **
+                                                                                                            ***-Justin Case<br>
+                                                                                                                CTO<br>
+                                                                                                               IX Inc.<br> **
 
 ### Contact Vecta Corporation
 
-Vecta Corporation
-555 Technology Place
-San Diego, CA 92115
-Tel. (800) 555-5555
+Vecta Corporation<br>
+555 Technology Place<br>
+San Diego, CA 92115<br>
+Tel. (800) 555-5555<br>
 
 **Management Team**
 
-Agnes, Vice President, Accounting
-Damon, Director of Development
-Herbert, Director of Human Resources
-Mike, Vice President, Marketing
-Ferris, Founder and CEO
+Agnes, Vice President, Accounting<br>
+Damon, Director of Development<br>
+Herbert, Director of Human Resources<br>
+Mike, Vice President, Marketing<br>
+Ferris, Founder and CEO<br>
